@@ -8,7 +8,6 @@ COPY /etc /etc
 RUN apt-get update
 
 RUN apt-get install -y --force-yes \
-    mc \
     php7.0 \
     php7.0-cli \
     php7.0-curl \
