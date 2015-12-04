@@ -1,4 +1,5 @@
-## Docker container with Ubuntu and PHP7-fpm
+# PHP7
+### Docker container with Ubuntu and PHP7 (php-fpm)
 
 First, build docker image:
 `sudo docker build -t rottenwood/php7 .`
